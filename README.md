@@ -1,4 +1,4 @@
-# ML-Group-Project
+# ML-Project
 Kaggle Porto Seguro’s Safe Driver Prediction
 
 In this project we are trying to understand how good a driver is, whether
